@@ -1,0 +1,3 @@
+# Module gwt_jboss
+# RPC service class, partial path of RPC policy file
+org.jboss.tools.gwt.client.ChatService, 076D835B8EE7B2B9D863145595A7D259.gwt.rpc

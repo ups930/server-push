@@ -1,0 +1,2 @@
+serviceClass: org.jboss.tools.gwt.client.ChatService
+path: 076D835B8EE7B2B9D863145595A7D259.gwt.rpc
